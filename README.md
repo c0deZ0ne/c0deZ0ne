@@ -1,28 +1,45 @@
-Hi there 👋
-Introduction
-Welcome to my GitHub Profile! Hi there, my name is AJ-droi and I'm excited to have you here on my GitHub profile! I'm a software engineer with a passion for creating innovative solutions that help make people's lives easier. Here you'll find a variety of projects that showcase my skills and interests.
-Projects
-Here are a few of my favorite projects that I've worked on recently:
-Smooze App: https://smoozepro.netlify.app
-React Azure: https://reactt-azure.azurewebsites.net/
-The Gathering: https://thegathering.netlify.app
-Skills
-Here are some of the skills that I bring to the table:
 
-Front-end development: using HTML, CSS, JavaScript, React, and NextJs
-Back-end development using Node.js and Typescript 
-Database design and management using MySQL, MongoDB, Sqlite, Postgresql and Firebase
-DevOps using AWS, Azure and Docker
+| Dogubo Mamuzo Joshua                                            
+|-----------------------------------------                          
+| Full stack Software Engineer                                     
+                                                    
+I am a passionate and experienced Full-Stack Developer with expertise in building robust web applications. I love solving                    complex problems and creating innovative solutions that deliver a great user experience solutions both in Web, Desktop, and                 Mobile technologies. I equally work with teams. I employ Agile methodology with continuous delivery and continuous development
+in test-drivendevelopment enviroment. 
+  
+ **EXPERIENCE**                                             
+                                                            
+**Decagon, Benin-City**                                    
+ - Full Stack Engineer
+ - August 2022 - DATE                                        
+                                                                
+ **InMotion, Port Harcourt**                               
+ - Full Stack Engineer
+ - May 2021 - January 2022                                    
 
-👯 I’m looking to collaborate on more open source projects.
+------------------------------------------------------------------------------------------------
+## Skills
+- Programming Languages: JavaScript, TypeScript, Python
+- Front-End Development: React.js, Angular, HTML5, CSS3
+- Back-End Development: Node.js, Express.js, Django
+- Database Management: MongoDB, MySQL, PostgreSQL
+- DevOps: Docker, AWS, CI/CD
+- Testing: Jest, Mocha, Cypress
+- Version Control: Git
+- Agile Methodology           
+- Microservice Architecture   
+- Object-Oriented Programming Paradigm                    
+- Scrum Certified             
+- AWS Certified    
 
-👯 I’m open to remote job opportunites.
+ **Contact Information:**                                  
+- Industrial Layout, 7 Asajon Way,                           
+- Eti-Ola 1014, Oshodi, Nigeria                              
+- +2348149220054, +2349120959138                             
+- Email: emason.tech@gmail.com                               
+- Github: [c0deZ0ne](https://github.com/c0deZ0ne)            
+- LinkedIn: [Dogubo](www.linkedin.com/in/Dogubo) 
 
-📫 How to reach me:
-Social Media Twitter | LinkedIn |
+cv: https://docs.google.com/document/d/e/2PACX-1vShUvS9b6ZpmFGwW_Bll_Wc7iqSAC9flRNL61aQB6hc6BpGX132s6oVosL9JIw3zu3L-SUR-KQezxyc/pub
 
-PortFolio Portfolio
+portfolio site:
 
-Email: dogubo.joshua@gmail.com emason.tech@gmail.com
-
-⚡ Fun fact: I love swimming 🥳
