@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact } from "react-icons/fa";
-import { SiTailwindcss, SiNodedotjs,SiElectron } from "react-icons/si";
+import { SiTailwindcss, SiNodedotjs,SiDocker } from "react-icons/si";
 const Media = () => {
   const handleSocila = (e)=>{
     if(e==="facebook"){
@@ -42,7 +42,7 @@ const Media = () => {
               <FaReact />
             </span>
             <span className="bannerIcon">
-              <SiElectron />
+              <SiDocker />
             </span>
             <span className="bannerIcon">
               <SiTailwindcss />
