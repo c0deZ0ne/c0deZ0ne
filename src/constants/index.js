@@ -39,74 +39,12 @@ export const navLinksdata = [
 ];
 
 
-// export const projectData = [
-//   { title:"Smooze Music Player", des:"Description: Developed a seamless and beautiful music player using the PERN stack (PostgreSQL, Express.js, React, Node.js). Implemented a user-friendly interface with an emphasis on smooth design, ensuring an enjoyable music playback experience.",
-//   imageSrc:smooze1 ,
-//    repo:"https://github.com/decadevs/node-live-project-frontend-sq012-_smoove",
-//    site:"https://smoozepro.netlify.app/",
-//    id:"",
-//    moreDetails:`Custom APIs: Built custom APIs from scratch for both uploading and streaming music data. Leveraged the power of Node.js and Express.js to handle file uploads, manage audio streaming, and provide efficient data retrieval.
-  
-//   User Authentication: Implemented a secure user authentication system, allowing users to access exclusive features by signing in or creating an account. Ensured data privacy and user account management functionality.
-  
-//   Funding Opportunity: This project is currently seeking funding to further enhance its features, expand the music library, and support ongoing maintenance and development efforts. Open to collaborations and investment opportunities.`
-// },
-// { title:"Smebud: WebApp E-commerse ", des:"Description: Developed a seamless and beautiful music player using the PERN stack (PostgreSQL, Express.js, React, Node.js). Implemented a user-friendly interface with an emphasis on smooth design, ensuring an enjoyable music playback experience.",
-// imageSrc:smebud3 ,
-//  repo:"https://github.com/c0deZ0ne/teezerhttps://github.com/Splenzer-Technology/smebud-admin",
-//  site:"https://smebud-admin.onrender.com/",
-//  id:"",
-//  moreDetails:`Custom APIs: Built custom APIs from scratch for both uploading and streaming music data. Leveraged the power of Node.js and Express.js to handle file uploads, manage audio streaming, and provide efficient data retrieval.
-
-// User Authentication: Implemented a secure user authentication system, allowing users to access exclusive features by signing in or creating an account. Ensured data privacy and user account management functionality.
-
-// Funding Opportunity: This project is currently seeking funding to further enhance its features, expand the music library, and support ongoing maintenance and development efforts. Open to collaborations and investment opportunities.`
-// }
-
-// ,
-// { title:"Teezer: WebApp video streamer ", des:"Description: Developed a seamless and beautiful music player using the PERN stack (PostgreSQL, Express.js, React, Node.js). Implemented a user-friendly interface with an emphasis on smooth design, ensuring an enjoyable music playback experience.",
-// imageSrc:teezer1 ,
-//  repo:"https://github.com/c0deZ0ne/teezer",
-//  site:"https://teezer.netlify.app/",
-//  id:"",
-//  moreDetails:`Custom APIs: Built custom APIs from scratch for both uploading and streaming music data. Leveraged the power of Node.js and Express.js to handle file uploads, manage audio streaming, and provide efficient data retrieval.
-
-// User Authentication: Implemented a secure user authentication system, allowing users to access exclusive features by signing in or creating an account. Ensured data privacy and user account management functionality.
-
-// Funding Opportunity: This project is currently seeking funding to further enhance its features, expand the music library, and support ongoing maintenance and development efforts. Open to collaborations and investment opportunities.`
-// },
-
-// { title:"Rete:Mobile app", des:"Description: Developed a seamless and beautiful music player using the PERN stack (PostgreSQL, Express.js, React, Node.js). Implemented a user-friendly interface with an emphasis on smooth design, ensuring an enjoyable music playback experience.",
-// imageSrc:rete5 ,
-//  repo:"https://play.google.com/store/apps/details?id=com.reteapp.rete&pli=1",
-//  site:"https://play.google.com/store/apps/details?id=com.reteapp.rete&pli=1",
-//  id:"",
-//  moreDetails:`Custom APIs: Built custom APIs from scratch for both uploading and streaming music data. Leveraged the power of Node.js and Express.js to handle file uploads, manage audio streaming, and provide efficient data retrieval.
-
-// User Authentication: Implemented a secure user authentication system, allowing users to access exclusive features by signing in or creating an account. Ensured data privacy and user account management functionality.
-
-// Funding Opportunity: This project is currently seeking funding to further enhance its features, expand the music library, and support ongoing maintenance and development efforts. Open to collaborations and investment opportunities.`
-// },
-
-// { title:"ColorPicker:Mobile app ", des:"Description: Developed a seamless and beautiful music player using the PERN stack (PostgreSQL, Express.js, React, Node.js). Implemented a user-friendly interface with an emphasis on smooth design, ensuring an enjoyable music playback experience.",
-// imageSrc:color1 ,
-//  repo:"https://play.google.com/store/apps/details?id=com.reteapp.rete&pli=1",
-//  site:"https://play.google.com/store/apps/details?id=com.reteapp.rete&pli=1",
-//  id:"",
-//  moreDetails:`Custom APIs: Built custom APIs from scratch for both uploading and streaming music data. Leveraged the power of Node.js and Express.js to handle file uploads, manage audio streaming, and provide efficient data retrieval.
-
-// User Authentication: Implemented a secure user authentication system, allowing users to access exclusive features by signing in or creating an account. Ensured data privacy and user account management functionality.
-
-// Funding Opportunity: This project is currently seeking funding to further enhance its features, expand the music library, and support ongoing maintenance and development efforts. Open to collaborations and investment opportunities.`
-// }
-// ]
-
 export const projectData = [
   {
     title: "Smooze Music Player",
     des: "Built a seamless and beautiful music player using the PERN stack (PostgreSQL, Express.js, React, Node.js). Created a user-friendly interface with a focus on smooth design, ensuring an enjoyable music playback experience.",
     imageSrc: smooze1,
-    repo: "https://github.com/decadevs/node-live-project-frontend-sq012-_smoove",
+    repo: "https://smoozepro.netlify.app/",
     site: "https://smoozepro.netlify.app/",
     id: "",
     moreDetails: "Custom APIs: Developed custom APIs from scratch for both uploading and streaming music data. Leveraged Node.js and Express.js to handle file uploads, manage audio streaming, and provide efficient data retrieval.\n\nUser Authentication: Implemented a secure user authentication system, enabling users to access exclusive features by signing in or creating an account. Ensured data privacy and user account management functionality.\n\nFunding Opportunity: This project is currently seeking funding to further enhance its features, expand the music library, and support ongoing maintenance and development efforts. Open to collaborations and investment opportunities."
