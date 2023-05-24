@@ -23,6 +23,8 @@
 
 .active {
     color: white;
+    border-bottom: 1px red solid;
+    padding-bottom:10px;
 }
 .scrollbar-hide::-webkit-scrollbar{
     display: none;

@@ -15,7 +15,7 @@ const Resume = () => {
       <div className="flex justify-center items-center text-center">
         <Title title="3+ YEARS OF EXPERIENCE" des="My Resume" />
       </div>
-      <div>
+      <div className='md:ml-[25%]'>
         <ul className="w-full grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
           <li
             onClick={() =>
