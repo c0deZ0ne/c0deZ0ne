@@ -47,7 +47,7 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Microsoft Inovative Trainer "
+            title="Microsoft Innovative Trainer "
             subTitle="Federal Science and Technical College (2019 - 2021)"
             result="Nigera"
             des="The training provided by microsoft suit training for college teachers in order to provide them the digital skills to work in various sectors of the economy or areas of culture of the college."

@@ -8,12 +8,14 @@ import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
 import {ModalProvider} from "./appContext/modalContext/index"
+import {ResumeProvider} from "./appContext/resumeContext/index"
 // import Testimonial from "./components/tesimonial/Testimonial";
 
 function App() {
   return (
     <>
     <ModalProvider>
+    <ResumeProvider>
     <div className="w-full h-auto bg-bodyColor text-lightText px-4">
         <Navbar />
       <div className="max-w-screen-xl mx-auto">
@@ -27,6 +29,8 @@ function App() {
         <FooterBottom />
       </div>
     </div>
+    </ResumeProvider>
+   
     </ModalProvider>
     </>
   )
