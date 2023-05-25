@@ -2,6 +2,7 @@ import React  from 'react'
 import Title from '../layouts/Title'
 import ProjectsCard from './ProjectsCard';
 import { projectData } from '../../constants';
+import {v4 as uuid} from "uuid"
 const Projects = () => {
 
   return (
@@ -23,6 +24,7 @@ const Projects = () => {
           site={site}
           imageSrc={imageSrc}
           des={des}
+          key={uuid(4)}
         />
         ))}
         
