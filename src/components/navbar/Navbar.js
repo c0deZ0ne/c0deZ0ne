@@ -45,7 +45,7 @@ const Navbar = () => {
               <div>
                 <img className="w-[20%]" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Hire me for your nest project
+                  Open to work
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
