@@ -188,7 +188,7 @@ const Skills = () => {
           <h2 className="text-3xl md:text-4xl font-bold">others</h2>
         </div>
         <div className="flex flex-col gap-6">
-          <div className="overflow-x-hidden">
+          {/* <div className="overflow-x-hidden">
             <p className="text-sm uppercase font-medium">python</p>
             <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
               <motion.span
@@ -200,18 +200,22 @@ const Skills = () => {
                 <span className="absolute -top-7 right-0">60%</span>
               </motion.span>
             </span>
-          </div>
-          <div className="overflow-x-hidden">
-            <p className="text-sm uppercase font-medium">Django</p>
-            <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
+          </div> */}
+           <div className="overflow-x-hidden">
+            <span className="text-sm uppercase font-medium overflow-x-auto flex max-sm:flex-col flex-row w-[100%]" >
+              <span className='flex flex-row'> {"Jest |"}</span>
+               <span className='flex flex-row'> {" Karma |"}</span> 
+               <span className='flex flex-row'> {` Mocha |`}</span>
+              </span>
+            <span className="w-full h-2 bgOpacity rounded-md flex mt-2">
               <motion.span
                 initial={{ x: "-100%", opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ duration: 0.5, delay: 0.5 }}
-                className="w-[50%] h-full bg-gradient-to-r from-blue-600 via-pink-500 to-red-500 rounded-md relative"
+                className="w-[95%] h-full bg-gradient-to-r from-blue-600 via-pink-500 to-red-500 rounded-md relative"
               >
-                <span className="absolute -top-7 right-0">50%</span>
               </motion.span>
+              <span className="relative -top-7 ">95%</span>
             </span>
           </div>
           <div className="overflow-x-hidden">
@@ -224,6 +228,19 @@ const Skills = () => {
                 className="w-[40%] h-full bg-gradient-to-r from-blue-600 via-pink-500 to-red-500 rounded-md relative"
               >
                 <span className="absolute -top-7 right-0">40%</span>
+              </motion.span>
+            </span>
+          </div>
+          <div className="overflow-x-hidden">
+            <p className="text-sm uppercase font-medium"> python </p>
+            <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
+              <motion.span
+                initial={{ x: "-100%", opacity: 0 }}
+                animate={{ x: 0, opacity: 1 }}
+                transition={{ duration: 0.5, delay: 0.5 }}
+                className="w-[60%] h-full bg-gradient-to-r from-blue-600 via-pink-500 to-red-500 rounded-md relative"
+              >
+                <span className="absolute -top-7 right-0 left-[90%]">60%</span>
               </motion.span>
             </span>
           </div>

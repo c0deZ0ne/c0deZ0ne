@@ -14,7 +14,7 @@ const ProjectsCard = ({ title, des, imageSrc ,repo,site}) => {
      return  window.location.href=`${repo}`
     }else{
 
-      setComponent(<iframe className='flex-row justify-center items-center align-middle justify-self-center top-[10%] left-[10%] right-[10%] relative' title='smooze' src={data} width={"80%"} height={"80%"}></iframe>)
+      setComponent(<iframe className='flex-row  bg-white  justify-center items-center align-middle justify-self-center top-[10%] left-[10%] right-[10%] relative' title='smooze' src={data} width={"80%"} height={"80%"}></iframe>)
       openModal()
     }
   }

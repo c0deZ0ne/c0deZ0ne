@@ -10,7 +10,7 @@ export const ResumeProvider = ({ children }) => {
     if (action==="view") {
         setComponent(
           <iframe
-            className="flex  absolute w-[90%] h-[98%] md:w-[60%] md:h-[90%] md:left-[15%] md:right-[15%] top-[5%] max-md:top-[100px] max-md:leff-[5%] max-md:right-[5%] overflow-hidden"
+            className="flex bg-white  absolute w-[90%] h-[98%] md:w-[60%] md:h-[90%] md:left-[15%] md:right-[15%] top-[5%] max-md:top-[100px] max-md:leff-[5%] max-md:right-[5%] overflow-hidden"
             src="https://docs.google.com/document/d/e/2PACX-1vShUvS9b6ZpmFGwW_Bll_Wc7iqSAC9flRNL61aQB6hc6BpGX132s6oVosL9JIw3zu3L-SUR-KQezxyc/pub?embedded=true"
             title="Resume"
     
