@@ -42,10 +42,11 @@ Throughout my career, I have demonstrated ownership and responsibility for produ
 
 #### **Technologies**  
 - JavaScript, TypeScript, Python  
+- D3.js, TailwindCSS, Material-UI, Chakra-UI  
 - React.js, Angular, Next.js, Electron  
 - Node.js, Express.js, Django  
 - MongoDB, PostgreSQL, MySQL  
-- D3.js, TailwindCSS, Material-UI, Chakra-UI  
+- Golang, C# 
 
 #### **DevOps & Tools**  
 - Docker, Kubernetes, AWS  
