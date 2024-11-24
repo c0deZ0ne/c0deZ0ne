@@ -15,7 +15,7 @@ Throughout my career, I have demonstrated ownership and responsibility for produ
 ### **Experience**
 
 #### **KPMG | TekExperts Lagos**  
-**Role**: Frontend Developer  
+**Role**: Frontend Developer:Contract  
 **Tenure**: December 2023 – Present  
 - Led React-TypeScript projects, improving user engagement by 25%.  
 - Conducted frontend testing with Cypress, achieving a 98% bug-free deployment.  
