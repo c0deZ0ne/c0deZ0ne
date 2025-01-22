@@ -6,7 +6,7 @@
 
 ### **Introduction**
 
-Hello, my name is Joshua. I am an experienced Node.js developer with over 3 years of hands-on experience in building scalable and testable enterprise solutions. I have a strong passion for utilizing best practices in product design and development to deliver high-quality software.  
+Hello, my name is Joshua. I am an experienced Node.js developer with over 4 years of hands-on experience in building scalable and testable enterprise solutions. I have a strong passion for utilizing best practices in product design and development to deliver high-quality software.  
 
 Throughout my career, I have demonstrated ownership and responsibility for products and tasks, ensuring on-time delivery without compromising quality. My expertise spans Node.js Nest.Js,Golang, c#, React, ReactNative,Electron applications, web, mobile, cross-API, and IoT development, with a focus on performance optimization and efficiency.  
 
@@ -60,8 +60,10 @@ Throughout my career, I have demonstrated ownership and responsibility for produ
 ---
 
 ### **Projects**
-- [Portfolio Website](https://dogubo-joshua.onrender.com/) (ReactJS, TailwindCSS)  
-- [Smooze Music Player](https://smoozepro.netlify.app/) (ReactJS, Modular CSS)  
+- [Tax Computational Tool](https://apps.ng.kpmg.com/taxorbit/)   
+- [Paroll Toll ](http://ec2-18-216-108-190.us-east-2.compute.amazonaws.com/payroll/) in progress   
+- [Portfolio Website](https://dogubo-joshua.onrender.com/) 
+- [Smooze Music Player](https://smoozepro.netlify.app/)  
 - [Cutstruct Marketplace](https://www.cutstruct.com/)  
 
 ---
